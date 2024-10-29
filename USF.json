@@ -1,0 +1,52 @@
+[
+  {
+        "FamilyName": "Ravenel",
+        "GivenName": "Adrian",
+        "Affiliation": "UNIVERSITY COMMUNICATIONS & MARKETNG",
+        "College": "University Communications & Marketng",
+        "Campus": "Tampa",
+        "Email": "ARAVENEL@wusf.org",
+        "CampusPhone": "+1-8139748627",
+        "CampusMailstop": null
+  },
+  {
+        "FamilyName": "Biesen",
+        "GivenName": "Judith",
+        "Affiliation": "CBCS MENTAL HEALTH LAW AND POLICY",
+        "College": "College of Behavioral and Community Sciences",
+        "Campus": "USF Health",
+        "Email": "jbiesen@usf.edu",
+        "CampusPhone": "+1-8139746783",
+        "CampusMailstop": null
+    },
+    {
+        "FamilyName": "Bridges-Soto",
+        "GivenName": "Judith",
+        "Affiliation": "CAS WORLD LANGUAGES",
+        "College": "College of Arts and Sciences",
+        "Campus": "Tampa",
+        "Email": "jcbridges@usf.edu",
+        "CampusPhone": "813-974-2548",
+        "CampusMailstop": null
+    },
+    {
+        "FamilyName": "Bryant",
+        "GivenName": "Judith",
+        "Affiliation": "CAS PSYCHOLOGY",
+        "College": "College of Arts and Sciences",
+        "Campus": "Tampa",
+        "Email": "judithbryant@usf.edu",
+        "CampusPhone": "+1-8139740475",
+        "CampusMailstop": null
+    },
+    {
+        "FamilyName": "Dewey-Elfvin",
+        "GivenName": "Judith",
+        "Affiliation": "COLLEGE OF MEDICINE NEUROLOGY",
+        "College": "Morsani College of Medicine",
+        "Campus": "USF Health",
+        "Email": "judithdeweye@usf.edu",
+        "CampusPhone": "813-974-6022",
+        "CampusMailstop": null
+    }
+]
